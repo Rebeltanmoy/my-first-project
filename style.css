@@ -10,7 +10,10 @@ body{
 }
 .flexible{
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+}
+.about{
+    padding-top: 100px;
 }
 .link-button{
     color: white;
@@ -35,14 +38,15 @@ body{
     background-position: left;
 }
 .second-section img{
-    width:335px;
+    width:60%;
 }
 .developer{
     width:30%;
     margin-left: 5%;
+    margin-right: 5%;
     padding-top: 15px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius:10px;
     box-shadow: 10px 10px 40px goldenrod;
 }
